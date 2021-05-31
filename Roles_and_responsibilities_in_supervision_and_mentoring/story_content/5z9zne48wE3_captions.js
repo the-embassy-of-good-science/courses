@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.50.24668.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.863%0D%0AThe%20mentee%20needs%20to%20know%20what%20their%20goals%20are,%20therefore%20have%20clarity%20of%20purpose.%0D%0A%0D%0A"}')
