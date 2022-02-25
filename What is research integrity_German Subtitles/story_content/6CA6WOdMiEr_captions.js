@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.54.25674.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.885%0D%0AIch%20habe%20das%20Gras%20immer%20bemalt,%20um%20es%20gr%C3%BCner%0D%0A%20zu%20machen,%20was%20ist%20daran%20pl%C3%B6tzlich%20falsch?%0D%0A%0D%0A"}')
