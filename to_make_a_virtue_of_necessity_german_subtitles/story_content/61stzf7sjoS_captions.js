@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.54.25674.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.833%0D%0ADann%20werde%20ich%20wohl%20keine%20andere%20Wahl%20haben,%20%0D%0Aals%20mir%20einen%20Vertrauensvorschuss%20zu%20gew%C3%A4hren.%0D%0A%0D%0A"}')
