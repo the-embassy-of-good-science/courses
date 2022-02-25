@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.54.25674.0%0D%0A%0D%0A00:00:00.001%20--%3E%2000:00:03.579%0D%0ANaja,%20es%20sieht%20so%20aus,%20als%20w%C3%A4re%20die%20%0D%0ASonne%20das%20Zentrum%20des%20Universums.%0D%0A%0D%0A"}')
